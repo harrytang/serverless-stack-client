@@ -1,0 +1,15 @@
+/*
+ * @Author: Harry Tang - harry@powerkernel.com 
+ * @Date: 2020-01-04 16:51:09 
+ * @Last Modified by:   Harry Tang - harry@powerkernel.com 
+ * @Last Modified time: 2020-01-04 16:51:09 
+ */
+.LoaderButton .spinning.glyphicon {
+    margin-right: 7px;
+    top: 2px;
+    animation: spin 1s infinite linear;
+  }
+  @keyframes spin {
+    from { transform: scale(1) rotate(0deg); }
+    to { transform: scale(1) rotate(360deg); }
+  }

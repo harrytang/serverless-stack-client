@@ -1,0 +1,14 @@
+/*
+ * @Author: Harry Tang - harry@powerkernel.com 
+ * @Date: 2020-01-04 20:26:45 
+ * @Last Modified by:   Harry Tang - harry@powerkernel.com 
+ * @Last Modified time: 2020-01-04 20:26:45 
+ */
+.Notes form {
+  padding-bottom: 15px;
+}
+
+.Notes form textarea {
+  height: 300px;
+  font-size: 24px;
+}
